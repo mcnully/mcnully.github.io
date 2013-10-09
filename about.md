@@ -1,13 +1,13 @@
 ---
 layout: page
 permalink: /about/index.html
-title: About the Jekyll Theme
-tags: [Jekyll, theme, simple, minimal, minimalism, responsive]
-modified: 2013-09-13
+title: About McNully Co.
+tags: [Consulting, About, Technology, Process, Info]
+modified: 2013-10-09
 image:
   feature: book.jpg
-  credit: Michael Rose
-  creditlink: http://mademistakes.com
+  credit: Alejandro Escamilla
+  creditlink: http://alejandroescamilla.com/
 ---
 
 Looking for a simple, responsive, theme for your Jekyll powered blog? Well look no further. Here be **So Simple Theme**, the followup to [**Minimal Mistakes**](http://mmistakes.github.io/minimal-mistakes) --- by designer slash illustrator [Michael Rose](http://mademistakes).

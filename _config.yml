@@ -2,7 +2,7 @@ title:            McNully Co.
 description:      Process and Technology Architects
 logo:             site-logo.png
 disqus_shortname: mcnullyco
-search:           true
+search:           false
 #Comment out url when working locally to resolve base urls correctly
 url:              http://mcnully.co
 
@@ -34,12 +34,12 @@ bing_verify:
 links:
   - title: About
     url: /about
-  - title: Articles
+  - title: Articles I wrote
     url: /articles
-  - title: Apps4Contractor
+  - title: Apps I built
     url: http://apps4contractor.com
     external: true
-  - title: Coffee
+  - title: Coffee I like
     url: https://tonx.org/u/mcnully
     external: true
 

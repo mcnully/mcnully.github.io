@@ -2,7 +2,7 @@ title:            McNully Co.
 description:      Process and Technology Architects
 logo:             site-logo.png
 disqus_shortname: mcnullyco
-search:           true
+search:           false
 #Comment out url when working locally to resolve base urls correctly
 url:              http://mcnully.co
 

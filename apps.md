@@ -9,11 +9,19 @@ image:
   feature: apps.jpg
   credit: Alejandro Escamilla
   creditlink: http://alejandroescamilla.com/
+apps:
+  - name: Apps4Contractor: Daily Report
+  	link: http://apps4contractor.com
+  	image: a4c-sq.png
 ---
 
 We do a lot of stuff with technology. One of those things is facilitating mobile dreams coming true with the development that app you have been wanting developed...yes...that one.
 
 ## Apps we want to tell you about
+{% for app in apps %}
+<h1>{{ app.name }}</h1>
+{% endif %} 
+
 <article class="entry" itemscope="" itemtype="http://schema.org/Blog" style="border-bottom-width:0;">
 	<div class="work-content"> 
 		<div class="project-wrap" itemprop="blogPost" itemscope="" itemtype="http://schema.org/BlogPosting">

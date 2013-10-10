@@ -9,25 +9,21 @@ image:
   feature: apps.jpg
   credit: Alejandro Escamilla
   creditlink: http://alejandroescamilla.com/
+products:
+ - name: Apps4Contractor Daily Report
+   link: http://apps4contractor.com
+   image: a4c-sq.png
+
 ---
 
-We do a lot of stuff with technology. One of those things is facilitating mobile dreams coming true with the development that app you have been wanting developed...yes...that one.
+We do a lot when it comes to facilitating technology. You know that app you have been wanting to develop? The one after you bought the iOS book and said you would start as soon as you finished the book (just after you start the book). We want to to talk to you about that one.
 
 ## Apps we want to tell you about
+<ul>{% for product in page.products %}
+  <li>{{ product.name }}</li>{% endfor %}
+</ul>
+
 {% include a4c.html %}
 
-## So Simple Theme is all about:
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 9+ and all modern browsers.
-* Minimal embellishments and subtle animations. 
-* Readable typography to make your words shine.
-* Support for large images to call out your favorite posts.
-* Disqus comments if you choose to enable.
-* Simple and clear permalink structure[^1].
-* Tags for [Open Graph](https://developers.facebook.com/docs/opengraph/) and [Twitter Cards](https://dev.twitter.com/docs/cards) for a better social sharing experience.
-* Vanilla [custom 404 page]({{ site.url }}/404.html) to get you started.
-* Stylesheets for Pygments and Coderay [syntax highlighting](http://mmistakes.github.io/articles/so-simple-theme/code-highlighting-post/) to make your code examples look snazzy.
-* Simple search that overlays results based on post title.
-* [Grunt build script]({{ site.url }}/theme-setup/index.html#theme-development) for easier theme development.
-* [Sitemap](https://github.com/mmistakes/so-simple-theme/blob/master/sitemap.xml) for search engines
+## So Simple Theme is all about:

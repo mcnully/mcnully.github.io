@@ -20,7 +20,22 @@ We do a lot when it comes to facilitating technology. You know that app you have
 
 ## Apps we want to tell you about
 {% for product in page.products %}
-	{% include product.html %}
+<article class="entry" itemscope="" itemtype="http://schema.org/Blog" style="border-bottom-width:0;">
+	<div class="work-content"> 
+		<div class="project-wrap" itemprop="blogPost" itemscope="" itemtype="http://schema.org/BlogPosting">
+			<a href="{{ product.link }}">
+				<figure class="project-tease"> 
+					<img src="{{ site.url }}/images/{{ product.image }}" alt="A4C teaser" border="0" itemprop="image"> 
+					<figcaption> 
+						<div class="figcaption-wrap"> 
+							<h3 itemprop="name">{{ product.name }}</h3> 
+						</div>
+					</figcaption>
+				</figure>
+			</a>
+		</div>
+	</div>
+</article>
 {% endfor %}
 
 

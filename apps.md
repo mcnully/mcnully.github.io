@@ -11,9 +11,11 @@ image:
   creditlink: http://alejandroescamilla.com/
 ---
 
-I have been fortunate to break into the app world with an excellent team. I think it is safe to say we have made all the right mistakes as we started out and are well on our way to "the right way" to build apps.
+We do a lot of stuff with technology. One of those things is facilitating mobile dreams coming true with the development that app you have been wanting developed...yes...that one.
 
-<a href="{{ site.url }}" class="site-logo" rel="home" title="{{ site.title }}" itemprop="url"><img src="{{ site.url }}/images/{{ site.logo }}" width="200" height="200" alt="{{ site.title }} logo" class="animated fadeInUp" itemprop="logo"></a>
+## Apps we can tell you about
+
+<a href="http://apps4contractor.com" class="site-logo" rel="home" title="Apps4Contractor" itemprop="url"><img src="{{ site.url }}/images/a4c-sq.png" width="200" height="200" alt="A4C logo" class="animated fadeInUp" itemprop="logo"></a>
 
 ## So Simple Theme is all about:
 

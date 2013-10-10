@@ -35,11 +35,10 @@ bing_verify:
 links:
   - title: About
     url: /about
-  - title: Articles I wrote
+  - title: Articles
     url: /articles
-  - title: Apps I built
-    url: http://apps4contractor.com
-    external: true
+  - title: Apps
+    url: /apps
   - title: Coffee I like
     url: https://tonx.org/u/mcnully
     external: true

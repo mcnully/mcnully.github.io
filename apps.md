@@ -18,7 +18,7 @@ apps:
 We do a lot of stuff with technology. One of those things is facilitating mobile dreams coming true with the development that app you have been wanting developed...yes...that one.
 
 ## Apps we want to tell you about
-{% for app in apps %}
+{% for app in page.apps %}
 <h1>{{ app.name }}</h1>
 {% endif %} 
 

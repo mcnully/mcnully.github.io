@@ -13,9 +13,9 @@ image:
 
 We do a lot of stuff with technology. One of those things is facilitating mobile dreams coming true with the development that app you have been wanting developed...yes...that one.
 
-## Apps we can tell you about
+## Apps we want to tell you about
 
-<a href="http://apps4contractor.com" title="Apps4Contractor" itemprop="url"><img src="{{ site.url }}/images/a4c-sq.png" width="200" height="200" alt="A4C logo" itemprop="logo"></a>
+<a href="http://apps4contractor.com" title="Apps4Contractor"><img src="{{ site.url }}/images/a4c-sq.png" width="200" height="200" alt="A4C logo"></a>
 
 ## So Simple Theme is all about:
 

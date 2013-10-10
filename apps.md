@@ -10,7 +10,8 @@ image:
   creditlink: http://alejandroescamilla.com/
 ---
 
-Looking for a simple, responsive, theme for your Jekyll powered blog? Well look no further. Here be **So Simple Theme**, the followup to [**Minimal Mistakes**](http://mmistakes.github.io/minimal-mistakes) --- by designer slash illustrator [Michael Rose](http://mademistakes).
+I have been fortunate to break into the app world with an excellent team. I think it is safe to say we have made all the right mistakes as we started out and are well on our way to "the right way" to build apps.
+<icon class="glyphicons_049_star"></icon>
 
 ## So Simple Theme is all about:
 
@@ -27,7 +28,3 @@ Looking for a simple, responsive, theme for your Jekyll powered blog? Well look 
 * Simple search that overlays results based on post title.
 * [Grunt build script]({{ site.url }}/theme-setup/index.html#theme-development) for easier theme development.
 * [Sitemap](https://github.com/mmistakes/so-simple-theme/blob/master/sitemap.xml) for search engines
-
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>
-
-[^1]: Example: *domain.com/category-name/post-title*

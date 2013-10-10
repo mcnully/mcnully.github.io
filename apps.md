@@ -14,22 +14,7 @@ image:
 We do a lot of stuff with technology. One of those things is facilitating mobile dreams coming true with the development that app you have been wanting developed...yes...that one.
 
 ## Apps we want to tell you about
-<article class="entry" itemscope="" itemtype="http://schema.org/Blog" style="border-bottom-width:0;">
-	<div class="work-content"> 
-		<div class="project-wrap" itemprop="blogPost" itemscope="" itemtype="http://schema.org/BlogPosting">
-			<a href="http://apps4contractor.com">
-				<figure class="project-tease"> 
-					<img src="{{ site.url }}/images/a4c-sq.png" alt="A4C teaser" border="0" itemprop="image"> 
-					<figcaption> 
-						<div class="figcaption-wrap"> 
-							<h3 itemprop="name">Apps4Contractor Daily Report</h3> 
-						</div>
-					</figcaption>
-				</figure>
-			</a>
-		</div>
-	</div>
-</article>
+{% include a4c.html %}
 
 ## So Simple Theme is all about:
 

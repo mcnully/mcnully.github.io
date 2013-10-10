@@ -10,9 +10,9 @@ image:
   credit: Alejandro Escamilla
   creditlink: http://alejandroescamilla.com/
 applications:
-  name: apps.jpg
-  link: Alejandro Escamilla
-  image: a4c-sq.png
+  -name: apps.jpg
+   link: Alejandro Escamilla
+   image: a4c-sq.png
 ---
 
 We do a lot of stuff with technology. One of those things is facilitating mobile dreams coming true with the development that app you have been wanting developed...yes...that one.

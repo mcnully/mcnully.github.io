@@ -11,7 +11,7 @@ image:
 ---
 
 I have been fortunate to break into the app world with an excellent team. I think it is safe to say we have made all the right mistakes as we started out and are well on our way to "the right way" to build apps.
-<icon class="glyphicons_049_star"></icon>
+<i class="icon-compass"></i>
 
 ## So Simple Theme is all about:
 

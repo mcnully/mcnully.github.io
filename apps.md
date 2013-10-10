@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /apps/index.html
-title: Apps
+title: Apps <i class="icon-apple"></i>
 tags: [mobile apps, development, apps]
 modified: 2013-10-10
 image:
@@ -11,7 +11,7 @@ image:
 ---
 
 I have been fortunate to break into the app world with an excellent team. I think it is safe to say we have made all the right mistakes as we started out and are well on our way to "the right way" to build apps.
-<i class="icon-compass"></i>
+
 
 ## So Simple Theme is all about:
 

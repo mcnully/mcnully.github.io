@@ -15,7 +15,7 @@ products:
    image: a4c-sq.png
  - name: Coming Soon
    link: #
-   image: Alpha_lowercase.svg
+   image: Alpha_lowercase.png
 
 ---
 

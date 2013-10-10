@@ -13,6 +13,7 @@ image:
 
 I have been fortunate to break into the app world with an excellent team. I think it is safe to say we have made all the right mistakes as we started out and are well on our way to "the right way" to build apps.
 
+<a href="{{ site.url }}" class="site-logo" rel="home" title="{{ site.title }}" itemprop="url"><img src="{{ site.url }}/images/{{ site.logo }}" width="200" height="200" alt="{{ site.title }} logo" class="animated fadeInUp" itemprop="logo"></a>
 
 ## So Simple Theme is all about:
 

@@ -19,11 +19,12 @@ products:
 We do a lot when it comes to facilitating technology. You know that app you have been wanting to develop? The one after you bought the iOS book and said you would start as soon as you finished the book (just after you start the book). We want to to talk to you about that one.
 
 ## Apps we want to tell you about
-<ul>{% for product in page.products %}
-  <li>{{ product.name }}</li>{% endfor %}
-</ul>
+{% for product in page.products %}
+	{% include product.html %}
+{% endfor %}
 
-{% include a4c.html %}
+
+
 
 
 ## So Simple Theme is all about:

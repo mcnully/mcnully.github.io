@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /apps/index.html
-title: Apps <i class="icon-apple"></i>
+title: Apps
 tags: [mobile apps, development, apps]
 modified: 2013-10-10
 image:

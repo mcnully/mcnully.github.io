@@ -13,6 +13,9 @@ products:
  - name: Apps4Contractor Daily Report
    link: http://apps4contractor.com
    image: a4c-sq.png
+ - name: Coming Soon
+   link: #
+   image: Alpha_lowercase.svg
 
 ---
 
@@ -37,9 +40,3 @@ We do a lot when it comes to facilitating technology. You know that app you have
 	</div>
 </article>
 {% endfor %}
-
-
-
-
-
-## So Simple Theme is all about:

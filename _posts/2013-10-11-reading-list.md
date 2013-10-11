@@ -12,6 +12,25 @@ image:
 comments: true  
 ---
 
+| Title | Author | My Rating |
+|:--------|:-------:|--------:|
+| How To Deliver A TED Talk: Secrets Of The World's Most Inspiring Presentations | Jeremy Donovan | 5 |
+| How to Win Friends and Influence People | Dale Carnegie | 5 |
+| The Accidental Salesperson: How to Take Control of Your Sales Career and Earn the Respect and Income You Deserve | Chris Lytle | 5 |
+| The Innovator's Dilemma: The Revolutionary Book That Will Change the Way You Do Business | Clayton M. Christensen | 4 |
+| Engineering Software as a Service: An Agile Approach Using Cloud Computing | Armando Fox | 4 |
+| Becoming a Person of Influence | John C. Maxwell | 4 |
+| The On-Purpose Person: Making Your Life Make Sense | Kevin W. McCarthy | 4 |
+| The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses | Eric Ries | 4 |
+| Rework | Jason Fried | 4 |
+| The World Is Flat: A Brief History of the Twenty-first Century | Thomas L. Friedman | 4 |
+| The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change | Stephen R. Covey | 4 |
+| Predictably Irrational: The Hidden Forces That Shape Our Decisions | Dan Ariely | 4 |
+| Breaking Out: How to Build Influence in a World of Competing Ideas | John Butman | 3 |
+| The 80/20 Principle: The Secret to Achieving More with Less | Richard Koch | 3 |
+| Own the Room: Discover Your Signature Voice to Master Your Leadership Presence | Amy Jen Su | 3 |
+| The Pirate Organization: Lessons from the Fringes of Capitalism | Rodolphe Durand | 3
+
 Below is just about everything you'll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.
 
 # Heading 1

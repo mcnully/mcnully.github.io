@@ -1,14 +1,14 @@
 ---
 layout: post
-title: Sample Post
-description: "Just about everything you'll need to style in the theme: headings, paragraphs, blockquotes, tables, code blocks, and more."
+title: Reading List
+description: "Books that have shaped our thinking."
 modified: 2013-05-31
 category: articles
-tags: [sample post]
+tags: [reading list, books]
 image:
-  feature: so-simple-sample-image-1.jpg
-  credit: Michael Rose
-  creditlink: http://mademistakes.com
+	feature: book.jpg
+	credit: Alejandro Escamilla
+	creditlink: http://alejandroescamilla.com/
 comments: true  
 ---
 

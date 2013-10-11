@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Reading List
+title: "Reading List"
 description: "Books that have shaped our thinking."
 modified: 2013-05-31
 category: articles

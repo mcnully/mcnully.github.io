@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Reading List"
-description: "Books that have shaped our thinking."
-modified: 2013-05-31
+title: "A Post with Images"
+description: "Examples and code for displaying images in posts."
 category: articles
-tags: [reading list, books]
+tags: [sample post, images, test]
+comments: true  
 image:
 	feature: book.jpg
 	credit: Alejandro Escamilla

@@ -29,7 +29,8 @@ comments: true
 | Breaking Out: How to Build Influence in a World of Competing Ideas | John Butman | 3 |
 | The 80/20 Principle: The Secret to Achieving More with Less | Richard Koch | 3 |
 | Own the Room: Discover Your Signature Voice to Master Your Leadership Presence | Amy Jen Su | 3 |
-| The Pirate Organization: Lessons from the Fringes of Capitalism | Rodolphe Durand | 3
+| The Pirate Organization: Lessons from the Fringes of Capitalism | Rodolphe Durand | 3 |
+{: rules="rows"}
 
 Below is just about everything you'll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.
 
